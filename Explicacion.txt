@@ -1,0 +1,36 @@
+Saludos soy evangx y les mostrare como
+utiilizar el programa que aporte para 
+ignetworks
+-despues de que hemos 
+descargado el archivo
+ejecutaremos el creador de spots
+-como podemos apreciar su interfas es
+muy facil de usar 
+-procedere a mostrarles como funciona
+en la primera obcion  seleccionaremos
+el mapa en el que deseamos que sea 
+colocado nuestro spot
+-despues escogeremos el mounstro que
+vamos a colocar
+-estan clasificados segun al mapa al q
+pertenecen, 
+-despues de seleccionar
+su mapa de origen seleccionaremos el
+mounstro, como podemos observer
+tiene una pequeña pantalla para que 
+veamos la imagen del que hemos
+escogido y poder cambiar en caso de
+que no sea el deseado
+-el siguiente dato recomiendo no cambiarlo
+pero si lo desean pueden hacerlo,
+representa cuanto podran caminar 
+-los siguientes son las cordenadas donde se
+localizara el spot siendo las cordenadas
+x1 y y1 menor que x2 y y3 
+correspondientemente
+-el cuadro de selecion es para reiniciar
+nuestro archivo spots, cuando halla 
+crecido demasiado o no queremos causar
+confuncion de los que ya fueron implementados
+y los nuevos que sean creado
+al final solamente le damos enviar

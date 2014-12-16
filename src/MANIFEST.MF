@@ -1,0 +1,2 @@
+Main-Class: creador_de_spots
+Class-Path: creador_de_spots.jar
